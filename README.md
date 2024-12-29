@@ -1,0 +1,6 @@
+# 农场交易交易app出售
+
+绿色农场项目案例展示<br>    功能<br>     说明<br>       用户推广<br>     支持会员推广以此获取丰厚奖励，及可以直接查看推广人数，及下级推广人数。<br>       会员体系<br>     支持会员等级设置，会员等级升级，会员充值，清楚记录会员总收益等各项数据。<br>       广告<br>     多个种类公告信息展示。<br>       道具商城<br>     多种道具用来管理农场，让农场管理多样化。<br>       农场商城<br>     可以自定义添加农场及农场产量运行时间。<br>       交易平台<br>     交易中心时间自由设置，自由控制交易行情Ｋ线图，能够自由控制明天买卖价格，可以进行买卖操作，可以申请买入，申请卖出，订单匹配成功可以短信通知。<br>       会员赠送<br>     可以自由赠送其他会员化肥。<br>       账号<br>     如账号有违规行为，可以及时进行封号处理以及操作。<br>       交易明细<br>     准确记录各项支出，收入的记录。。<br>       在线客服<br>     可以在线与用户进行沟通，方便好用。<br>       实名认证<br>     需要上传身份证等真实信息进行实名认证。<br>       注册奖励<br>     会员注册需短信验证码，可以自定义新用户注册赠送的奖励。<br>       后台管理员权限管理<br> <br>     后台管理员可自由设置子管理员可管理权限及可管理的位置。<br>       后台充值<br>     可以自由给每个用户进行充值,并存有记录。<br>  <br>                                       <br>
+
+
+<p style="color: red;">源代码下载地址：<a href="https://mega-file.org/8bAff" style="color: red;">https://mega-file.org/8bAff</a></p><p style="color: red;"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram Icon" style="width: 16px; vertical-align: middle; margin-right: 5px;">Telegram:<a href="https://t.me/official_sourcecode" style="color: red;">@official_sourcecode</a></p>
